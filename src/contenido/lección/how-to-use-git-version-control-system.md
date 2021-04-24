@@ -7,10 +7,8 @@ thumb: "https://breatheco.de/wp-content/uploads/2017/03/commit-object.png"
 date: "2020-10-19T16:36:31+00:00"
 tags: ["GIT","how to use GIT"]
 status: "published"
+[[demo]
 
----
-
-[[demo]]
 | :point_up: We have also prepared an interactive tutorial about GIT [click here to take it!](https://4geeksacademy.github.io/git-interactive-tutorial/)
 
 
